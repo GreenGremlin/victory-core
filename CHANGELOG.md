@@ -1,6 +1,10 @@
 VictoryCore Changelog
 =====================
 
+## 14.1.1 (2017-04-20)
+
+- Add `victory-native` support to getSVGEventCoordinates
+
 ## 14.1.0 (2017-04-04)
 
 - Remove default container theme
@@ -9,7 +13,7 @@ VictoryCore Changelog
 
 ## 14.0.7 (2017-03-21)
 
-- Fixes a bug in s`houldComponentUpdate` logic in `Candle`
+- Fixes a bug in `shouldComponentUpdate` logic in `Candle`
 - Adds static roles for `VictoryContainer`, `VictoryClipContainer`, and `VictoryLabel`
 - Fixes a bug in `VictoryClipContainer`
 - Prevents unknown prop `clipWidth` on `<g>` tags
